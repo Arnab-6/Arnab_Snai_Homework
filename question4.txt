@@ -26,4 +26,4 @@ Tamper-Proof Documentation (`644`):** Applied to the overview markdown file so t
 
 Service Lifecycle Execution (`755`):** Applied to the shell scripts so CI systems and external operators can run health checks and server controls without granting them write permission to alter script code.
 
-Parent-Context Targeting:** Scoped every command using the `deployment/` prefix to satisfy the operational constraint of running tasks without moving inside the directory.
+Parent-Context Targeting:** Scoped every command using the `deployment` prefix to satisfy the operational constraint of running tasks without moving inside the directory.
