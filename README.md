@@ -1,5 +1,5 @@
 # Heading 
-[!TIPS]
+> [!TIPS]
 > Here is some tips
 
 ```py
